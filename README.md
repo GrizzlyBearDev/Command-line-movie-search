@@ -6,7 +6,8 @@ I made this simple tool so that I could quickly search movies and TV shows from 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+1. To get a local copy up and running follow these simple steps.
+2. OMDb api key
 
 ### Prerequisites
 
@@ -21,7 +22,7 @@ Install Dart SDK. [Click here to view official guide for getting Dart.](https://
 2. Install packages
    ```sh
    pub get
-   ``
+   ```
 3. Create .env file with contents
    ```sh 
    fmovies: 'your omdb api key'
