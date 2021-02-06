@@ -21,6 +21,10 @@ Install Dart SDK. [Click here to view official guide for getting Dart.](https://
 2. Install packages
    ```sh
    pub get
+   ``
+3. Create .env file with contents
+   ```sh 
+   fmovies: 'your omdb api key'
    ```
 
 
