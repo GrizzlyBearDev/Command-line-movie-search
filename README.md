@@ -16,11 +16,11 @@ Install Dart SDK. [Click here to view official guide for getting Dart.](https://
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/GrizzlyBearDev/Command-line-movie-search.git
    ```
-2. Install NPM packages
+2. Install packages
    ```sh
-   npm install
+   pub get
    ```
 
 
@@ -28,8 +28,6 @@ Install Dart SDK. [Click here to view official guide for getting Dart.](https://
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+I would suggest you first compile using the guide [here.](https://dart.dev/tools/dart2native)
+Running the executable will automatically prompt you to type in what you want to want to search and that's all.
 
