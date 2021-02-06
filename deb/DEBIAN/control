@@ -1,0 +1,6 @@
+Package: movie
+Version: 1.2
+Architecture: amd64
+Depends: dart
+Maintainer: Bear
+Description: Command line movie search app.
