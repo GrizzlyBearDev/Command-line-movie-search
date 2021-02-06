@@ -6,12 +6,13 @@ I made this simple tool so that I could quickly search movies and TV shows from 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-1. To get a local copy up and running follow these simple steps.
-2. OMDb api key
+To get a local copy up and running follow these simple steps.
+
 
 ### Prerequisites
 
-Install Dart SDK. [Click here to view official guide for getting Dart.](https://dart.dev/get-dart)
+1. Install Dart SDK. [Click here to view official guide for getting Dart.](https://dart.dev/get-dart)
+2. OMDb api key
 
 ### Installation
 
