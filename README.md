@@ -1,3 +1,5 @@
+This is not complete and probably won't work it's been a while since I made it and really don't remember where I stopped.
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
